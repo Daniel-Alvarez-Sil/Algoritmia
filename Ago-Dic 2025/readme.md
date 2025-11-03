@@ -4,8 +4,6 @@
   <img src="/Recursos/logo%20tec.png" alt="Logo Tec" width="250">
 </div>
 
-![image](/Recursos/logo%20tec.png)
-
 ## Agosto - Diciembre, 2025
 
 Repositorio para observar todas las lecciones vistas en el grupo estudiantil de Algoritmia. 
