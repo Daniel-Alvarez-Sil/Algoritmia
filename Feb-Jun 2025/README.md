@@ -1,5 +1,10 @@
 # Algoritmia
-![image](https://github.com/user-attachments/assets/74dfae17-f838-490b-8b64-104900a9a24c)
+
+<div align="center">
+  <img src="/Recursos/logo%20tec.png" alt="Logo Tec" width="250">
+</div>
+
+## Febrero - Junio, 2025
 
 Repositorio para observar todas las lecciones vistas en el grupo estudiantil de Algoritmia. 
 
