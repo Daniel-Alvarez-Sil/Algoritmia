@@ -1,27 +1,24 @@
-# Grupo estudiantil de Programación Competitiva - Algoritmia: 
+<p align="center">
+  <img src="/Recursos/logo%20club.png" alt="Logo Club" width="200">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/Recursos/logo%20tec.png" alt="Logo Tec" width="200">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/Recursos/logo%20grupos.png" alt="Logo Grupos" width="200">
+</p>
 
-# Algoritmia
+# Algoritmia. 
+## Grupo de Programación Competitiva. 
+`Escuela`: ITESM, campus CEM
 
-<div align="center">
-  <img src="/Recursos/logo%20tec.png" alt="Logo Tec" width="250">
-  <img src="/Recursos/logo%20club.png" alt="Logo Tec" width="250">
-  
-</div>
-<div align="center">
-  <img src="/Recursos/logo%20grupos.png" alt="Logo Tec" width="250">  
-</div>
+`País`: México
 
 
-
-
-Escuela: ITESM, campus CEM
-País: México
 
 ¡Bienvienido al repo oficial de Algoritmia! 
 
 ## Indice:
 - `2025`: 
-    - [Feb-Jun]("Ago-Dic 2025/README.md")
-    - [Ago-Dic]("Feb-Jun 2025/README.md")
+    - [Febrero - Junio](Feb-Jun%202025/readme.md)
+    - [Agosto - Diciembre](Ago-Dic%202025/readme.md)
 
-##
+
