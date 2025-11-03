@@ -9,8 +9,8 @@
 Repositorio para observar todas las lecciones vistas en el grupo estudiantil de Algoritmia. 
 
 -  Sesión 1:
-    - Conceptos básicos de programación
+    - [Conceptos básicos de programación](./Introduccion%20a%20Programacion%20Competitiva/readme.md)
 
 - Sesión 2: 
-    - Introducción a programación competitiva
+    - [Introducción a programación competitiva](./Basicos%20de%20Programacion/readme.md)
 
